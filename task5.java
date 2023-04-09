@@ -16,7 +16,7 @@ import java.util.LinkedList;
 import java.util.Map;
 
 public class task5 {
-    // Честное пионерское: пока не до конца разобрался со стеком, поэтому подсматривал решение в интернетах...
+   
     public static void main(String[] args) {
 
         String[] arr = {"()[]", "()", "{[()]}", "()()", ")()("};
